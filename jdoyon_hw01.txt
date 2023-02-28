@@ -1,0 +1,17 @@
+mkdir .dotfiles
+
+ls -a
+
+cd .dotfiles
+
+pwd
+
+touch README.md
+
+vim README.md
+
+:wq
+
+cat README.md
+
+(couldn't find lab02 vimrc config ile, not sure why, but I would use the cp command ot do so, like: cp jdoyon_lab02.vimrc ~/.dotfiles)
